@@ -1,3 +1,6 @@
 # [The Basics of Software Development: A Beginner-Friendly Guide](https://wazobia.tech/blog/development/the-basics-of-software-development-a-beginner-friendly-guide?utm_source=chatgpt.com)
 
 What I found interesting about this article is how it breaks down software development into clear and beginner-friendly concepts. It explains not only what programming is, but also how software is built, tested, and maintained. I liked that it introduces development methodologies like Agile and Waterfall in a way that’s easy to understand, showing how different teams might approach building software. This gives a good perspective on how real-world projects are managed, not just how to write code. Overall, the article gave me a clear roadmap for how to start learning and practicing software development in a structured way.
+
+### Susan's Comment
+This article is very insightful in giving me better perspective on how I should approach my career search. This article gives a very _simplified_ and _easy-to-understand_ approach to software development (in real life) which can be very helpful for students when they're discerning what they want to do for a career! 
